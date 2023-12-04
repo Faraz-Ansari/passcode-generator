@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/C___Projects.dir/PassCodeMaker.cpp.obj"
+  "CMakeFiles/C___Projects.dir/passcodeMaker.cpp.obj"
+  "CMakeFiles/C___Projects.dir/passcodeMaker.cpp.obj.d"
   "C___Projects.exe"
   "C___Projects.exe.manifest"
   "C___Projects.pdb"
